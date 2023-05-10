@@ -1,0 +1,16 @@
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\WebApplication12.deps.json
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\WebApplication12.runtimeconfig.json
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\appsettings.Development.json
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\appsettings.json
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\WebApplication12.staticwebassets.runtime.json
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\WebApplication12.exe
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\WebApplication12.dll
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\WebApplication12.pdb
+C:\Users\rajkumar.patil\Documents\WebApplication12\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\rajkumar.patil\Documents\WebApplication12\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\rajkumar.patil\Documents\WebApplication12\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\rajkumar.patil\Documents\WebApplication12\bin\Debug\Microsoft.Extensions.Primitives.dll

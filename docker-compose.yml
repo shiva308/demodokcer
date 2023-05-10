@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapplication12:
+    image: ${DOCKER_REGISTRY-}webapplication12
+    build:
+      context: .
+      dockerfile: WebApplication12\Dockerfile
